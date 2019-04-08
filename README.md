@@ -1,2 +1,5 @@
-# AmazonSumerian-multiple-scenes
-A simple way to transition between multiple "scenes" within the same project.
+# Amazon Sumerian Multiple Scenes
+A simple way to transition from one "scene" to the next within the same project.
+
+## Assumptions
+
